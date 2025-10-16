@@ -26,4 +26,15 @@ Created a virtual environment and run these scripts and output files such as htm
 
 # OUTPUT
 
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/0214fe2a-f0ec-4b59-930a-198ce9df7813" />
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/2007ff1b-adf1-4290-9668-c96493ab22d1" />
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/e169c3e1-b3c7-40ce-8ec9-14dcefaf4b54" />
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/779e1637-43b9-4a83-93f1-845382f9ca2a" />
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/d6527a94-e074-4f51-be47-92dcac4f6b76" />
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/06db2f55-3e01-4176-a6fa-4e1f451df6d0" />
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/3e26ea97-59a2-4cf7-ae78-6ae50a2737cb" />
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/97952cad-dada-4b74-947f-aa2dd7f4ea1c" />
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/227c557f-2234-40cb-9d03-8fee3f8441ae" />
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/86afd1bd-ce7d-4963-bc91-d159a1b519be" />
+
 
