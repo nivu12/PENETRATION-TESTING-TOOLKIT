@@ -1,0 +1,6 @@
+2025-10-15 00:04:38 - INFO - pentoolkit - Running simple vulnerability checks against 127.0.0.1:5000
+2025-10-15 00:04:40 - INFO - pentoolkit - host: 127.0.0.1
+2025-10-15 00:04:40 - INFO - pentoolkit - port: 5000
+2025-10-15 00:04:40 - INFO - pentoolkit - checked: []
+2025-10-15 00:04:40 - INFO - pentoolkit - root_error: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B9B387CEC0>, 'Connection to 127.0.0.1 timed out. (connect timeout=2.0)'))
+2025-10-15 00:04:40 - INFO - pentoolkit - Saved vulnerability report: vuln_local_20251015_000440.html

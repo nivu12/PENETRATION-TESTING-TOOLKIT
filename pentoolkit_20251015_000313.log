@@ -1,0 +1,15 @@
+2025-10-15 00:03:13 - INFO - pentoolkit - Scanning 127.0.0.1 ports: [21, 22, 23, 25, 53, 80, 110, 139, 143, 443, 445, 3389]
+2025-10-15 00:03:14 - DEBUG - pentoolkit - Port 21: closed
+2025-10-15 00:03:14 - DEBUG - pentoolkit - Port 22: closed
+2025-10-15 00:03:14 - DEBUG - pentoolkit - Port 23: closed
+2025-10-15 00:03:14 - DEBUG - pentoolkit - Port 25: closed
+2025-10-15 00:03:14 - DEBUG - pentoolkit - Port 53: closed
+2025-10-15 00:03:14 - DEBUG - pentoolkit - Port 80: closed
+2025-10-15 00:03:14 - DEBUG - pentoolkit - Port 110: closed
+2025-10-15 00:03:14 - DEBUG - pentoolkit - Port 139: closed
+2025-10-15 00:03:14 - DEBUG - pentoolkit - Port 143: closed
+2025-10-15 00:03:14 - DEBUG - pentoolkit - Port 443: closed
+2025-10-15 00:03:14 - INFO - pentoolkit - Port 445: OPEN
+2025-10-15 00:03:14 - DEBUG - pentoolkit - Port 3389: closed
+2025-10-15 00:03:14 - INFO - pentoolkit - Saved HTML report: myscan_20251015_000314.html
+2025-10-15 00:03:14 - INFO - pentoolkit - Saved CSV report: myscan_20251015_000314.csv
