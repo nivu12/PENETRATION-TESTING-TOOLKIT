@@ -12,7 +12,8 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-## The task 3 for Cybersecurity and Ethical Hacking was to create a toolkit for penetration testing. It was instructed to build a toolkit including multiple modules like port scaner, brute-forcer etc...for penetration testing. The very first thing to do is to understand clearly the terms specified in this task such as port scanner, brute-forcer so as to learn and work on it.Later then you can develop the modules. 
+## The task 3 for Cybersecurity and Ethical Hacking was to create a toolkit for penetration testing. It was instructed to build a toolkit including multiple modules like port scaner, brute-forcer etc...for penetration testing. 
+The very first thing to do is to understand clearly the terms specified in this task such as port scanner, brute-forcer so as to learn and work on it.Later then you can develop the modules. 
 First I created a folder named *PENTOOLKIT* to store my all modules,scripts, output files such as html,csv etc. Inside the PENTOOLKIT FOLDER another folder named *MODULES* were created. This folder contains all individual tools such as *banner_grabber.py*, *bruteforce_demo.py*, *logger_mod.py*, *port_scanner.py*, *reporter.py*, *vuln_checks.py*. Outside the *MODULES* the given files were placed,*main.py*, *practise_server.py*.
 Port scanner tool is used to identify the open ports in a system. Using the pythons 'socket' library we can connect to a specific port using the function 'scan_port'.If the connection is established then the port is open or else it is closed.
 *banner_grabber.py* is used to return the banner string if data is recieved and on timeout or any error it returns an empty string.
